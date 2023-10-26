@@ -1,6 +1,7 @@
 # SKIBIDI TOILET X PESO PLUMA (El juego)
 Peso Pluma el mejor cantante de la historia (:V)
 
+![SKBTxPP](/quelepareceesamorra.jpeg)
 
 ## DESCRIPICIÓN
 
