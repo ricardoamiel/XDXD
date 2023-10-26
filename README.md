@@ -3,7 +3,7 @@ Peso Pluma el mejor cantante de la historia (:V)
 
 
 <div align="center">
-  <img src="/quelepareceesamorra.jpeg" alt="SKBTxPP">
+  <img src="others/quelepareceesamorra.jpeg" alt="SKBTxPP">
 </div>
 
 ## DESCRIPTION
