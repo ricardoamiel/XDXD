@@ -1,9 +1,12 @@
-# SKIBIDI TOILET X PESO PLUMA (El juego)
+# SKIBIDI TOILET X PESO PLUMA (The game)
 Peso Pluma el mejor cantante de la historia (:V)
 
-![SKBTxPP](/quelepareceesamorra.jpeg)
 
-## DESCRIPICIÓN
+<div align="center">
+  <img src="/quelepareceesamorra.jpeg" alt="SKBTxPP">
+</div>
+
+## DESCRIPTION
 
 ¡Bienvenido a "Skibidi Toilet x Peso Pluma Game"! Este es un juego divertido y emocionante inspirado en la famosa canción "Skibidi" de Little Big y la canción "Peso Pluma (Ella Baila Sola)" de Los Ronisch. En este juego, te desafiarás a ti mismo para demostrar tus habilidades rítmicas y de reacción al ritmo de la música, mientras disfrutas de una experiencia visual y auditiva única.
 
@@ -11,7 +14,7 @@ Peso Pluma el mejor cantante de la historia (:V)
 
 Welcome to "Skibidi Toilet x Peso Pluma Game"! This is a fun and exciting game inspired by the famous song "Skibidi" by Little Big and the song "Peso Pluma (She Baila Sola)" by Los Ronisch. In this game, you will challenge yourself to demonstrate your rhythmic and reaction skills to the beat of the music, while enjoying a unique visual and auditory experience.
 
-## FUNCIONALIDAD DEL JUEGO 
+## GAME FUNCTIONALITIES
 
 - Fondo Temático: El juego presenta un fondo temático que captura la esencia y la extravagancia de las canciones "Skibidi" y "Peso Pluma" V:.
 
@@ -39,12 +42,35 @@ Welcome to "Skibidi Toilet x Peso Pluma Game"! This is a fun and exciting game i
 
 - Sound Effects: The game includes sound effects for each successful action, which adds excitement and fun to the gaming experience ;V.
 
-## AGRADECIMIENTOS
+## HOW TO PLAY?
+
+1. Ejecuta el juego y espera a que la música de fondo comience.
+
+2. Observa los pixeles que caen desde la parte superior y presiona los botones en el momento justo para acumular puntos.
+
+3. ¡Desafía tus habilidades rítmicas y de reacción para alcanzar la puntuación más alta!
+
+//
+
+1. Run the game and wait for the background music to start.
+
+2. Watch the pixels fall from the top and press the buttons at the right time to accumulate points.
+
+3. Challenge your rhythm and reaction skills to reach the highest score!
+
+## REQUIREMENTS
+
+- Python 3
+- Pygame (instalable mediante pip install pygame)
+
+## CREDITS
 
 - Adrián Lauz
 - Gyattcarlo Fukuda
 - Ryutaro Humberto
 - Rodrigo Bejarano
+
+Creado y diseñado por el hijo de Rainer.
 
 ¡Disfrutad de este maravilloso proyecto hecho por verdaderas fanáticos de la música!
 
